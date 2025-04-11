@@ -1,0 +1,28 @@
+body {
+    padding: 1rem 2rem;
+    background-color: #f0f0f0;
+    margin-bottom: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.image-container {
+    line-height: 2;
+}
+
+.icon {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1.25rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
